@@ -1,9 +1,10 @@
-// MAP THE FOLLOWING ARRAY OF OBJECTS TO THE DOM
+// TAKE A LOOK AT THE FOLLOWING ARRAY OF OBJECTS BELOW
 const students = [
     { name: "Helen", grade: 35, pass: true },
     { name: "Tony", grade: 22, pass: false },
     { name: "Sylvia", grade: 49, pass: true }
 ]
+// MAP THE OBJECT VALUES INTO SOME NEW HTML TO THE DOM
 
 // SELECT ALL CHECKBOXES FROM THE DOM
 // ADD AN EVENT LISTENER AND OUTPUT THE SELECTED CHECKBOX VALUE
